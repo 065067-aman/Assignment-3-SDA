@@ -1,0 +1,4 @@
+kafka-python
+yfinance
+mysql-connector-python
+pymongo
